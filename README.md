@@ -1,0 +1,3 @@
+# Očkovacia lotéria
+
+todo
